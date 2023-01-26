@@ -1,5 +1,5 @@
 # quizzes
-A challenge waiting for you
+A challenge waiting for you. (Actually it isn't waiting for you)
 ## How it works
 You'll see a bunch of message that looks like this:
 
