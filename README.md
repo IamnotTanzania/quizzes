@@ -1,5 +1,5 @@
 # quizzes
-A challenge is waiting for you. (Actually it isn't waiting for you)
+This quiz is already hard from Level 1 if you don't read this instruction
 ## Solving Guide & Bonus Info
 From levels 1 to 5, there are 3 messages per level. Level 6 has one message only.
 
