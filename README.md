@@ -22,3 +22,5 @@ So it's: YOUCANEAT...
 Can you decode the rest of the example?
 
 But we're just getting started... If you can decode all messages from all 6 levels, you get bucks. (more info after you solved all messages).
+
+**BONUS TIP:** Sometimes, you'll find something like MAG NET when you solve the puzzle. You'll need to "merge" them.
