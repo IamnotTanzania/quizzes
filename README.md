@@ -1,7 +1,9 @@
 # quizzes
 A challenge is waiting for you. (Actually it isn't waiting for you)
-## How it works
-You'll see a bunch of message that looks like this:
+## Solving Guide & Bonus Info
+From levels 1 to 5, there are 3 messages per level. Level 6 has one message only.
+
+The messages that look something like this example:
 
 oytru dcnanscma eat mdfsufhs forfoms mcofro fmewhalin g
 
@@ -9,13 +11,13 @@ This isn't just some gibberish, it's an *actual* message. Here's how:
 
 **oy**-tr-**u** d-**c**-n-**an**-scma **eat** ...
 
-*Look for letter combos!*
+*Pay attention to letters in bold. You'll realize there are letters scrambled throughout some "words". Combine those letters to create an actual word*
 
-Combine them and you get: OYUCANEAT...
+For this example, combine all the bold letters and you get: OYUCANEAT...
 
 *Wait, what is Oyu?*
 
-You sometime have to reorder the letters too! Oyu --> You.
+You may have to reorder the letters too! Oyu --> You.
 
 So it's: YOUCANEAT...
 
@@ -23,6 +25,6 @@ Can you decode the rest of the example?
 
 But we're just getting started... If you can decode all messages from all 6 levels, you get bucks. (more info after you solved all messages).
 
-**BONUS TIP:** Sometimes, you'll find some weird? words, for example: *mag net* when you solve the puzzle. You'll need to "merge" them into an actual word. In this example, *mag net* turns to *magnet*
+**BONUS TIP:** Sometimes, you'll find some weird words, for example: you've stumbled accross this *mag net*, what do you do? You'll need to "merge" them into an actual word. In this example, *mag net* turns to *magnet*
 
-You should start at Level 1 cuz it's the easiest.
+There are also tips throughout each level, I'm not gonna bother listing them here.
