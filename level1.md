@@ -1,3 +1,5 @@
+**The easiest level, you just need to remove the right letters and that's it. Reminder that not all levels are going to be like this.**
+
 ## Message 1
 
 crseprpreksmrd aww d ammdnwq adsmn
