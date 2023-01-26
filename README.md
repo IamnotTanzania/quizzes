@@ -23,4 +23,4 @@ Can you decode the rest of the example?
 
 But we're just getting started... If you can decode all messages from all 6 levels, you get bucks. (more info after you solved all messages).
 
-**BONUS TIP:** Sometimes, you'll find something like MAG NET when you solve the puzzle. You'll need to "merge" them.
+**BONUS TIP:** Sometimes, you'll find some weird? words, for example: *mag net* when you solve the puzzle. You'll need to "merge" them into an actual word. In this example, *mag net* turns to *magnet*
