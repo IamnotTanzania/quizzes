@@ -3,7 +3,7 @@ This quiz is already hard from Level 1 if you don't read this instruction
 ## Solving Guide & Bonus Info
 From levels 1 to 5, there are 3 messages per level. Level 6 has one message only.
 
-The messages that look something like this example:
+The messages will look something like this example:
 
 oytru dcnanscma eat mdfsufhs forfoms mcofro fmewhalin g
 
