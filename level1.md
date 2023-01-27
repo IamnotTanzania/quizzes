@@ -18,6 +18,6 @@ mkasrjditsjtrkrnange fsdmymsdbol
 
 whant es d rhtne dfnwera rewast sd fblcovk kedfsiinmtrmienence sc raft ds hisjidadtorykd?
                                                                          
-
+-----------------------------------------------------------------------------------------
                                                      
-(example: hisjidadtorykd is a letter chunk, and so is crseprpreksmrd. jsid can also be one)
+(example: hisjidadtorykd is a letter chunk, and so is crseprpreksmrd. jsid can also be one.)
