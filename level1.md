@@ -16,8 +16,8 @@ mkasrjditsjtrkrnange fsdmymsdbol
 
 ## Message 3:
 
-whant es d rhtne dfnwera rewast sd fblcovk kedfsiinmtrmienence sc raft ds *hisjidadtorykd*?
+whant es d rhtne dfnwera rewast sd fblcovk kedfsiinmtrmienence sc raft ds hisjidadtorykd?
                                                                          
-                                            ^^^^ also a chunk              ^^^^^ letter chunk
-                                            
-(example will look better on a PC)
+
+                                                     
+(example: hisjidadtorykd is a letter chunk, and so is crseprpreksmrd. jsid can also be one)
