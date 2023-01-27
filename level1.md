@@ -1,6 +1,6 @@
 **The easiest level, you just need to remove the right letters and that's it. Reminder that not all levels are going to be like this.**
 
-**Did you know:** In some messages (like Message 3, Level 1), there are 2 actual words in a "letter chunk" (which are letters in italic, found below), but one of them is right.
+**Did you know:** In some messages (like Message 3, Level 1), there are 2 actual words in a "letter chunk" (which are letters in italic, found below), but only one of them is right.
 
 ## Message 1
 
