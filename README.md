@@ -27,4 +27,4 @@ But we're just getting started... If you can decode all messages from all 6 leve
 
 **BONUS TIP:** Sometimes, you'll find some weird words, for example: you've stumbled accross this *mag net*, what do you do? You'll need to "merge" them into an actual word. In this example, *mag net* turns to *magnet*
 
-There are also tips throughout each level, I'm not gonna bother listing them here
+There are also tips throughout each level, I'm not gonna bother listing them here.
