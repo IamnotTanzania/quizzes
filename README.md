@@ -23,8 +23,8 @@ So it's: YOUCANEAT...
 
 Can you decode the rest of the example?
 
-But we're just getting started... If you can decode all messages from all 6 levels, you get bucks. (more info after you solved all messages).
+But we're just getting started... If you can decode all messages from all 6 levels, you get a prize. (more info in the wiki)
 
 **BONUS TIP:** Sometimes, you'll find some weird words, for example: you've stumbled accross this *mag net*, what do you do? You'll need to "merge" them into an actual word. In this example, *mag net* turns to *magnet*
 
-There are also tips throughout each level, I'm not gonna bother listing them here.
+There are also tips throughout each level, I'm not gonna bother listing them here
