@@ -1,6 +1,7 @@
 From Level 1 to 4, you could just copy the message to the decoder and that's it but this one is different. You'll either have to type manually to the decoder or use Google Lens.
 ## Message 1
 ![image](https://user-images.githubusercontent.com/70366580/214791725-9e78075e-3392-4841-a0e3-c2c408871c7e.png)
+Hint: Some letters are missing
 
 ## Message 2
 ![image](https://user-images.githubusercontent.com/70366580/214792484-5f2212ec-b0c3-486d-b45a-c5f4d595725c.png)
