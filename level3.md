@@ -10,4 +10,4 @@ ttwgetg yjlr vm ghcpw oumqqqhi (key: bill)
 
 ## Message 3
 (hint: http://themysteryofgravityfalls.com/ cannot help you, you'll need to use either Base32 or Base64)
-dwg76ub6d5qp8wt0ctq6e83j41kpetv9ctj6mxh0edjj0rbedrg62wvdctnj0831c9qqat3j41ppcvvtennj0wh0exjpc83mdxj6yvvkdgg0
+aWRhcyBmb3NkbmZnIHRzZ2Zpdm0gYXcgYWsgZmQgc2N1eGsgYXNvdm91cmViZm92bWVydCBvdHJ5eW1yIGV0IHNkb2xzZGxmc2xvZmQ=
